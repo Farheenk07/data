@@ -1,0 +1,324 @@
+
+[
+    {
+        "id" : 1,
+        "product name" : "Foundation",
+        "category id" : 1,
+        "image" : "https://i.ibb.co/1QP6Drf/Supplier-to-the-Stars.jpg" ,
+        "price" : "4000"
+    },
+
+    {
+        "id" : 2,
+        "product name" : "Eyeshadow",
+        "category id" : 1,
+        "image" : "https://i.ibb.co/1TSSN03/Huda-Beauty-New-Nudes-Eyeshadow-Palette-Swatches.jpg",
+        "price" : "2000"
+    },
+
+    {
+        "id" : 3,
+        "product name" : "Concealer",
+        "category id" : 1,
+        "image" : "https://i.ibb.co/jG6WcZY/The-Saem-Color-Perfection-Tip-Concealer-Clear-Beige.jpg",
+        "price" : "1500"
+    },
+
+    {
+        "id" : 4,
+        "product name" : "Lipsticks",
+        "category id" : 1,
+        "image" : "https://i.ibb.co/GkMbX8G/Le-Rouge-Parfum-Kilian.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 5,
+        "product name" : "Blush",
+        "category id" : 1,
+        "image" : "https://i.ibb.co/P94X4sX/The-Rose-Inc-Blush-Formula-Has-Me-On-Choke-Hold.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 6,
+        "product name" : "Moisturizer",
+        "category id" : 2,
+        "image" : "https://i.ibb.co/5G9mmhP/N-14-Conditioning-Body-Cream-Blood-Orange.jpg" ,
+        "price" : "500"
+    },
+
+    {
+        "id" : 7,
+        "product name" : "Serum",
+        "category id" : 2,
+        "image" : "https://i.ibb.co/pxPQ5ks/Download-premium-psd-image-of-Amber-dropper-bottle-mockup-psd-product-packaging-for-beauty-and-skinc.jpg" ,
+        "price" : "800"
+    },
+
+    {
+        "id" : 8,
+        "product name" : "Sunscreen",
+        "category id" : 2,
+        "image" : "https://i.ibb.co/Wvvv7H1/Forever-Aloe-Sunscreen.jpg",
+        "price" : "600"
+    },
+
+    {
+        "id" : 9,
+        "product name" : "Face Wash",
+        "category id" : 2,
+        "image" : "https://i.ibb.co/Cv91FBc/Pond-s-Bright-Beauty-Spot-Less-Glow-Fairness-Face-Wash-Foam-With-Vitamin-B3-50g.jpg",
+        "price" : "900"
+    },
+
+
+    {
+        "id" : 10,
+        "product name" : "Face mask",
+        "category id" : 2,
+        "image" : "https://i.ibb.co/k0hbYQJ/Detoxifying-Tightening-French-Green-Clay-Mask-4-oz.jpg",
+        "price" : "1200"
+    },
+
+    {
+        "id" : 11,
+        "product name" : "Shampoo",
+        "category id" : 3,
+        "image" : "https://i.ibb.co/YkfYT3H/Haircare.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 12,
+        "product name" : "Conditioner",
+        "category id" : 3,
+        "image" : "https://i.ibb.co/JFS3j9C/d41a8646-c6a9-4236-9fc6-145ff441029d.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 13,
+        "product name" : "Hair Oil",
+        "category id" : 3,
+        "image" : "https://i.ibb.co/6m2k27J/hair-oil.jpg",
+        "price" : "650"
+    },
+
+    {
+        "id" : 14,
+        "product name" : "Hair Serum",
+        "category id" : 3,
+        "image" : "https://i.ibb.co/gWCzkHS/Streax-Pro-Vitariche-Gloss-Hair-Serum-100ml-Free-Shipping.jpg",
+        "price" : "1400"
+    },
+
+    {
+        "id" : 15,
+        "product name" : "Hair Color and Dye",
+        "category id" : 3,
+        "image" : "https://i.ibb.co/s2nG6n0/Nisha-Hair-Color-Dye-Henna-Based-Natural-Hair-Color-Powder-Pack-Of-10.jpg",
+        "price" : "300"
+    },
+
+    {
+        "id" : 16,
+        "product name" : "Body Wash",
+        "category id" : 4,
+        "image" : "https://i.ibb.co/Wkk4yQf/THE-FACE-SHOP-PERFUME-BODY-WASH.jpg",
+        "price" : "400"
+    },
+
+    {
+        "id" : 17,
+        "product name" : "Body Lotion",
+        "category id" : 4,
+        "image" : "https://i.ibb.co/TkS4zWg/Wow-Shea-and-Cocoa-Butter-body-lotion-png-image.jpg",
+        "price" : "350"
+    },
+
+    {
+        "id" : 18,
+        "product name" : "Body Scrub",
+        "category id" : 4,
+        "image" : "https://i.ibb.co/Q6Q19Dv/Roll-over-image-to-zoom-in-Tree-Hut-Vitamin-C-Shea-Sugar-Scrub-18-oz-Ultra-Hydrating.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 19,
+        "product name" : "Soap",
+        "category id" : 4,
+        "image" : "https://i.ibb.co/jJFmDm6/7ca081bb-240c-4eb9-b172-9bbd0d1bc769.jpg" ,
+        "price" : "100"
+    },
+
+    {
+        "id" : 20,
+        "product name" : "Hand Cream",
+        "category id" : 4,
+        "image" : "https://i.ibb.co/7z6KGps/City-Of-Angels-Hand-Cream-1-7-ounce.jpg",
+        "price" : "600"
+    },
+
+    {
+        "id" : 21,
+        "product name" : "Perfumes",
+        "category id" : 5,
+        "image" : "https://i.ibb.co/xf315JD/Boost-your-confidence-with-these-gorgeous-perfumes.jpg",
+        "price" : "2000"
+    },
+
+    {
+        "id" : 22,
+        "product name" : "Body Mist",
+        "category id" : 5,
+        "image" : "https://i.ibb.co/WcQ9rxK/Download-premium-image-of-Elegant-pink-perfume-bottle-ribbon-by-Ning-about-coquette-perfume-bottles.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 23,
+        "product name" : "Roll on",
+        "category id" : 5,
+        "image" : "https://i.ibb.co/SVQ534Y/Nivea-Natural-Glow-Smooth-Skin-Deodorant-Roll-On-For-Women-50ml.jpg",
+        "price" : "700"
+    },
+
+    {
+        "id" : 24,
+        "product name" : "Perfume Oils",
+        "category id" : 5,
+        "image" : "https://i.ibb.co/y5gc7GK/Elegant-Facial-Oil-Bottle.jpg",
+        "price" : "900"
+    },
+
+    {
+        "id" : 25,
+        "product name" : "Home Fragrances",
+        "category id" : 5,
+        "image" : "https://i.ibb.co/M1xf09Z/Febreze-Air-Mist-Romance-Desire-Mood-Enhancing-Home-Air-Freshener-Spray-Aerosol-Can-8-8-oz.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 26,
+        "product name" : "Supplements",
+        "category id" : 6,
+        "image" : "https://i.ibb.co/KhtXh3k/Vitamine.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 27,
+        "product name" : " Nutrition Minerals ",
+        "category id" : 6,
+        "image" : "https://i.ibb.co/YLJr1rh/Natrol-Vitamin-D3-10-000-IU-Tablets-Support-Your-Immune-Health-60-Count.jpg",
+        "price" : "4000"
+    },
+
+    {
+        "id" : 28,
+        "product name" : "Protein",
+        "category id" : 6,
+        "image" :"https://i.ibb.co/vPYWZSV/Isopure-Protein-Powder-Zero-Carb-Whey-Isolate-with-Vitamin-C-Zinc-for-Immune-Support.jpg" ,
+        "price" : "600"
+    },
+
+    {
+        "id" : 29,
+        "product name" : "Fitness Equipment",
+        "category id" : 6,
+        "image" :"https://i.ibb.co/tZThXND/Sport-Fitness-Training-Expander-Exercise-Equipment-Sport-Still-Life-Healthy-Lifestyle-Motivation-Quo.jpg",
+        "price" : "5000"
+    },
+
+    {
+        "id" : 30,
+        "product name" : "Health Monitoring Devices",
+        "category id" : 6,
+        "image" : "https://i.ibb.co/n62ybnh/Download-free-vector-of-Digital-Thermometer-showing-37-00-Celsius-healthy-temperature-for-COVID-19-e.jpg",
+        "price" : "900"
+    },
+
+    {
+        "id" : 31,
+        "product name" : "Hair Dryers",
+        "category id" : 7,
+        "image" : "https://i.ibb.co/xhb66cr/cdf7bb61-cdf4-4730-a7c3-23b9a652948d.jpg" ,
+        "price" : "1200"
+    },
+
+    {
+        "id" : 32,
+        "product name" : "Hair Straighteners",
+        "category id" : 7,
+        "image" : "https://i.ibb.co/dghrR9L/hair-straightner.jpg",
+        "price" : "3000"
+    },
+
+    {
+        "id" : 33,
+        "product name" : "Massagers",
+        "category id" : 7,
+        "image" : "https://i.ibb.co/y5NQpWy/2pcs-Set-Resin-Massage-Roller-Kit-Double-Headed-Massage-Roller-Scraping-Board-For-Massage-Eye-Face-M.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 34,
+        "product name" : "Makeup Brushes",
+        "category id" : 7,
+        "image" : "https://i.ibb.co/3yLYBB3/Makeup-Brushes.jpg",
+        "price" : "800"
+    },
+
+    {
+        "id" : 35,
+        "product name" : "Hair Trimmer",
+        "category id" : 7,
+        "image" : "https://i.ibb.co/WcS0BnL/Premium-Photo-Hair-clipper-stand-on-purple-background-idea-creative-inspiration-and-hairdressing-wor.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 36,
+        "product name" : "Baby Clothing",
+        "category id" : 8,
+        "image" : "https://i.ibb.co/x6gwLs9/410f8966-a2a4-4431-8c83-6fa3130f3d7d.jpg",
+        "price" : "750"
+    },
+
+    {
+        "id" : 37,
+        "product name" : "Baby Feeding Bottles",
+        "category id" : 8,
+        "image" : "https://i.ibb.co/cFP8HpB/Comotomo-Set-of-2-Baby-Bottles-Nordstrom.jpg",
+        "price" : "250"
+    },
+
+    {
+        "id" : 38,
+        "product name" : "Baby Skincare",
+        "category id" : 8,
+        "image" : "https://i.ibb.co/T4T9PkR/baby-care.jpg",
+        "price" : "500"
+    },
+
+    {
+        "id" : 39,
+        "product name" : "Prenatal Care",
+        "category id" : 8,
+        "image" : "https://i.ibb.co/3dG0jKF/Nexton.jpg",
+        "price" : "1000"
+    },
+
+    {
+        "id" : 40,
+        "product name" : "Baby Food",
+        "category id" : 8,
+        "image" : "https://i.ibb.co/PQk8Cxw/Gerber-3rd-Foods-Mixed-Cereal-with-Apples-Baby.jpg",
+        "price" : "500"
+    }
+
+]
